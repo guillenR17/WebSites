@@ -1,0 +1,25 @@
+body{
+    background-color: rgb( green,);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 0em;
+    border-style: dotted;
+}
+h1{
+    background-color: aqua;
+    padding: 3px;
+    border-style: outset;
+    border-radius: 11px;
+    text-align: center;
+    border-bottom: blue;
+}
+p{
+    background-color: aqua;
+    padding: 20px;
+    border-bottom: 5px groove blue;
+    border-top: 5px groove blue;
+    border-right: 5px groove blue;
+    border-left: 5px groove blue;
+    border-radius: 10px;
+    font-family: cursive;
+}
